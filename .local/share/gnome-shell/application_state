@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="yelp.desktop" score="24" last-seen="1611649543"/>
+    <application id="org.gnome.Terminal.desktop" score="330" last-seen="1611653147"/>
+    <application id="org.gnome.Software.desktop" score="24" last-seen="1611653176"/>
+  </context>
+</application-state>

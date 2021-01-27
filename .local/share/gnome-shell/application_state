@@ -2,7 +2,7 @@
 <application-state>
   <context id="">
     <application id="yelp.desktop" score="24" last-seen="1611649543"/>
-    <application id="org.gnome.Terminal.desktop" score="13596" last-seen="1611777234"/>
+    <application id="org.gnome.Terminal.desktop" score="13797" last-seen="1611778814"/>
     <application id="org.gnome.Software.desktop" score="24" last-seen="1611653176"/>
   </context>
 </application-state>

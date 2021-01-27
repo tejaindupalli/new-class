@@ -1,0 +1,6 @@
+file:///C:/Program%20Files/Git/mingw64/share/doc/git-doc/git.html
+
+
+documentation:https://git-scm.com/doc
+
+
